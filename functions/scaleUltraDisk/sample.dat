@@ -1,0 +1,6 @@
+{
+    "name": "testdatadisk",
+    "resourceGroup": "test",
+    "DiskIOPSReadWrite": 500
+    "DiskMBpsReadWrite": 5
+}

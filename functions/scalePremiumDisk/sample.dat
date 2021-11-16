@@ -1,0 +1,5 @@
+{
+    "name": "testdatadisk",
+    "resourceGroup": "test",
+    "tier": "P20"
+}
