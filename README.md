@@ -42,5 +42,3 @@ Destroy
 ```bash
 terraform destroy -auto-approve
 ```
-
-<a href="README.md" download="README.md">test</a>
